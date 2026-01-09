@@ -672,7 +672,7 @@ section {
   display: flex;
   align-items: center;
   gap: 1rem;
-  background: rgba(30, 41, 59, 0.4); /* Dark semi-transparent background */
+  background: rgba(29, 65, 36, 0.4); /* Dark semi-transparent background */
   backdrop-filter: blur(10px); /* Glass effect */
   border: 1px solid rgba(255, 255, 255, 0.08); /* Subtle border */
   border-radius: 16px;
@@ -683,8 +683,8 @@ section {
 
 .edu-card:hover {
   transform: translateY(-5px);
-  background: rgba(30, 41, 59, 0.7);
-  border-color: rgba(97, 218, 251, 0.3); /* Subtle blue glow on hover */
+  background: rgba(34, 59, 30, 0.7);
+  border-color: rgba(97, 251, 153, 0.3); /* Subtle blue glow on hover */
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.3);
 }
 
